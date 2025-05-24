@@ -1,2 +1,2 @@
-# lighhub
-A simple MERN stack application for managing an online store of electrical lamps and bulbs. Supports full CRUD operations for product name, image, and price.
+#   TimeCart
+A simple MERN stack application for managing an online store of wrist watches. Supports full CRUD operations for product name, image, and price.
